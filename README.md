@@ -112,7 +112,7 @@ GUI구현부터 DB운용까지 효과적으로 학습하며 설계할 수 있다
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/21%20admin_edit.png" width="90%">
 중앙 하단의 변경 버튼 클릭시 기존 사원 정보 수정
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/22%20admin_del.png" width="90%">
-중앙 하단의 삭제 버튼 클릭시 기존 사원 정보 삭제
+중앙 하단의 삭제 버튼 클릭시 기존 사원 정보 삭제 df
 <img src="" width="90%">
 <img src="" width="90%">
 <img src="" width="90%">
